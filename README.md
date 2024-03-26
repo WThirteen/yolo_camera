@@ -17,3 +17,10 @@ opencv-python
 numpy
 
 torch
+
+
+"运行"
+
+python yolo_camera.py
+
+输入"Q",结束程序.
