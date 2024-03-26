@@ -19,8 +19,10 @@ numpy
 torch
 
 
-"运行"
+运行:
 
 python yolo_camera.py
+
+终止:
 
 输入"Q",结束程序.
