@@ -23,5 +23,10 @@ pip install -r requirements.txt
 ```
 python yolo_camera.py
 ```
+* 彩色图像
+```
+python yolo_camera_color.py
+```
+  
 ### 终止:  
 **输入"Q",结束程序.**
